@@ -10,10 +10,10 @@ I spent many years working for the Brazilian Gov and I never had a website or a 
 
 {% highlight ruby %}
 def build_portifolio(name)
-  puts "Hi, #{name}"
+  puts "Go #{name}!"
 end
 build_portifolio('Byel.dev')
-#=> prints 'Hi, Byel.dev' to STDOUT.
+#=> prints 'Go Byel.dev!' to STDOUT.
 {% endhighlight %}
 
 
