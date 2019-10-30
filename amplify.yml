@@ -3,6 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
+        - rvm install ruby-2.5.3
         - rvm use 2.5.3
         - bundle install
     build:
