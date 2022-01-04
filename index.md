@@ -20,7 +20,7 @@ hide_footer: true
 <section class="section">
 <div class="columns ">
   <div class="column">
-    I'm not writing in English at this moment because there is lack of content in Portuguese for Ruby/Ruby on Rails. I think it will help a lot if I write only in Portuguese. In the near future, I will post in both languages and maybe in French!. 
+    I'm not writing in English at this moment because there is lack of content in Portuguese for Ruby/Ruby on Rails. I think it will help a lot if I only write in Portuguese. In the near future, I will post in both languages and maybe in French!. 
   </div>
 </div>
 </section>
