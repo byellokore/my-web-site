@@ -12,14 +12,12 @@ com pequenas coisas, como o que fiz... Vi a oportunidade, em um post sobre essa 
 
 Submeti minha [PR](https://github.com/rails/rails/pull/43847) e ela foi aprovada algumas horas depois. 
 
-{% highlight ruby %}
-def contribua()
-  puts "Você pode ajudar! Basta querer!"
+```ruby
+def contribua 
+  puts 'Você pode ajudar! Basta querer!'
 end
-{% endhighlight %}
+```
 
 Abaixo o link oficial de como contribuir para Rails: 
 
 [Como contribuir](https://guiarails.com.br/contributing_to_ruby_on_rails.html)
-
-
