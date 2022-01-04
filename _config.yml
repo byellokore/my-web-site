@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Byel.dev - Web Developer
+title: Byel.dev - Software Engineer
 email: gabriel@byel.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Web Developer based in Montreal - Québec - Canada.
-  Working with Ruby, Ruby on Rails and C#.
+  Software Engineer based in Québec - Quebec - Canada.
+  Working with Ruby, Ruby on Rails, Elastic, MySQL and PostgreSQL.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://byel.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: byellokore
@@ -28,10 +28,11 @@ social:
     - https://www.linkedin.com/in/gfsantos/
 # Build settings
 markdown: kramdown
-theme: minima
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+lang: pt-BR  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
