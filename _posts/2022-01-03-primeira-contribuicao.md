@@ -18,6 +18,6 @@ def contribua
 end
 ```
 
-Abaixo o link oficial de como contribuir para Rails: 
+Abaixo o link oficial de como contribuir no projeto Ruby on Rails: 
 
 [Como contribuir](https://guiarails.com.br/contributing_to_ruby_on_rails.html)
